@@ -42,7 +42,7 @@ public static class ProductSeedData
                 Description = "Multi-port USB-C hub with HDMI and Ethernet.",
                 Price = 49.99m,
                 StockQuantity = 200,
-                IsActive = true
+                IsActive = false
             },
             new Product
             {
